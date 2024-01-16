@@ -1,0 +1,3 @@
+D:/Peleng/VideoInformation/build/CMakeFiles/VideoInformation.dir
+D:/Peleng/VideoInformation/build/CMakeFiles/ALL_BUILD.dir
+D:/Peleng/VideoInformation/build/CMakeFiles/ZERO_CHECK.dir
